@@ -1,1 +1,1 @@
-# SDETest_KawanLamaGroup
+# SDET_KawanLamaGroup_TechnicalTest
